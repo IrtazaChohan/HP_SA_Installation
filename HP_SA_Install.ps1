@@ -8,7 +8,7 @@ Written by Irtaza Chohan (http://www.lostintheclouds.net & https://github.com/Ir
 
 .DESCRIPTION
 
-Simply put - installs HP SA on a server. You need to supply an IP address of the HP SA control server (that should be setup before this is installed on clients)
+Simply put - installs HP SA on a server (client version). You need to supply an IP address of the HP SA control server (that should be setup before this is installed on clients)
 
 This has been tested on:
 
